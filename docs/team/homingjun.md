@@ -23,10 +23,13 @@ main SCRUMptious for execution of the command.
     * Added a help menu to SCRUMptious so that users can learn how to use the commands at a glance. (Pull requests [#116](https://github.com/AY2021S1-CS2113T-F11-4/tp/pull/116), [#182](https://github.com/AY2021S1-CS2113T-F11-4/tp/pull/182))
 * Enhancements to existing features:
     * Apply SLAP to the Parser for more use of OOP and increase overall cohesion and decrease coupling of classes. (Pull requests [#97](https://github.com/AY2021S1-CS2113T-F11-4/tp/pull/97), [#114](https://github.com/AY2021S1-CS2113T-F11-4/tp/pull/114))
+    * Added logging for parser and help commands. (Pull request [#200](https://github.com/AY2021S1-CS2113T-F11-4/tp/pull/200))
 * Documentation: 
     * Set up the initial skeleton and format for the user guide markdown. (Pull request [#74](https://github.com/AY2021S1-CS2113T-F11-4/tp/pull/74))
     * Added help menu information to the user guide. (Pull request [#136](https://github.com/AY2021S1-CS2113T-F11-4/tp/pull/136))
-    * Added logic component to the developer guide. (Pull request [#125](https://github.com/AY2021S1-CS2113T-F11-4/tp/pull/125), [#182](https://github.com/AY2021S1-CS2113T-F11-4/tp/pull/182))
+    * Added logic component and class diagrams to the developer guide. (Pull request [#125](https://github.com/AY2021S1-CS2113T-F11-4/tp/pull/125), [#182](https://github.com/AY2021S1-CS2113T-F11-4/tp/pull/182), [#211](https://github.com/AY2021S1-CS2113T-F11-4/tp/pull/211))
+    * Added JavaDoc comments to parser, help and duke exception classes. (Pull request [#213](https://github.com/AY2021S1-CS2113T-F11-4/tp/pull/213))
+    * Update user guide table of content anchors to ensure the links work. (Pull request [#214](https://github.com/AY2021S1-CS2113T-F11-4/tp/pull/214))
 * Community:
     * Reviewed Developer Guide (with non-trivial comments): [[CS2113T-F12-2] AniChan #54](https://github.com/nus-cs2113-AY2021S1/tp/pull/54)
     * Reported bugs for other team during PE dry run: [[CS2113-T16-3] bugs](https://github.com/homingjun/ped/issues)

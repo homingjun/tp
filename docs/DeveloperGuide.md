@@ -211,7 +211,7 @@ This requires the model classes to implement two methods required for JSON seria
 ![Figure X: Project Class Diagram](./image/developerguide/ProjectClassDiagram.png
  "Project Class Diagram")
 #### Create Project
-![Figure X: Sequence diagram of CreateProjectCommand](./image/developerguide/createProjectSequenceDiagram.png
+![Figure X: Sequence diagram of CreateProjectCommand](./image/developerguide/)
  "Add Project Sequence Diagram") 
  Link: [CreateProjectCommand.java](https://github.com/AY2021S1-CS2113T-F11-4/tp/tree/master/src/main/java/seedu/duke/command/project/CreateProjectCommand.java) 
 A project is created with a clear title and description of what the team is working on 
